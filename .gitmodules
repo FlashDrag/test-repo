@@ -1,3 +1,6 @@
 [submodule "new_project"]
 	path = new_project
 	url = file:///home/flashdrag/repos/other/hello-world/new_project
+[submodule "submodules/test_project"]
+	path = submodules/test_project
+	url = https://github.com/FlashDrag/test_project
