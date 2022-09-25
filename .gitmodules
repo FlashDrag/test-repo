@@ -1,0 +1,3 @@
+[submodule "submodules/new_project"]
+	path = submodules/new_project
+	url = https://github.com/FlashDrag/new_project
